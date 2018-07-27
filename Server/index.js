@@ -11,4 +11,4 @@ app.use('/', routes);
 app.use(express.static('./public'));
 
 
-app.listen(3000,'65.49.37.156');
+app.listen(process.env.PORT || 3000,'65.49.37.156');
