@@ -1,0 +1,1079 @@
+{"level":"info","message":"Hello distributed log files!","timestamp":"2018-03-15T10:06:21.358Z"}
+{"level":"info","message":"Hello distributed log files!","timestamp":"2018-03-15T10:06:21.391Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:06:47.839Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:06:47.873Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:08:35.476Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:08:35.509Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:23:39.111Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:23:39.126Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:23:42.818Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:24:04.766Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:25:23.432Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:26:20.661Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:27:29.577Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:27:44.402Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:27:56.403Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:28:12.608Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:28:37.809Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:29:05.911Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:41:46.737Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:41:46.779Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:41:52.547Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:41:52.565Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:42:45.122Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:20.830Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:20.861Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:22.661Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:22.671Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:22.689Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:24.925Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:24.968Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:31.340Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:31.352Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:34.449Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:34.466Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:36.398Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:36.444Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:41.477Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:45:41.491Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:31.751Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:31.763Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:32.506Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:32.515Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:34.131Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:34.170Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:42.290Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:42.318Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:44.695Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:44.750Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:51.921Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:51.931Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:51.937Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:51.974Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:46:51.984Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:48:53.808Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:48:53.849Z"}
+{"level":"info","message":"Fetched user with id : 12544","timestamp":"2018-03-15T10:48:53.860Z"}
+{"level":"info","message":"Fetched All Users","timestamp":"2018-03-15T10:48:53.874Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:52:03.769Z"}
+{"level":"info","message":"Fetched user with id : 5555","timestamp":"2018-03-15T10:52:03.792Z"}
+{"level":"warn","message":"Hello distributed log files!","timestamp":"2018-03-15T10:53:30.804Z"}
+{"level":"info","message":"Fetched user with id : 5555","timestamp":"2018-03-15T10:53:30.826Z"}
+{"message":"custom error","stack":"Error: custom error\n    at usermodel.get.then.data (/home/honey/honey/nodejs/Express/Server/controllers/userController.js:20:15)\n    at <anonymous>","level":"error","timestamp":"2018-03-15T10:53:30.826Z"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"null\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"null\"","kind":"number","value":"null","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"null\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"null\"","kind":"number","value":"null","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 45","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"sdfsf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsf\"","kind":"Number","value":"sdfsf","path":"userId","reason":{"message":"Cast to number failed for value \"sdfsf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsf\"","kind":"number","value":"sdfsf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"sdfsf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 99","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 67879","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"null\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"null\"","kind":"number","value":"null","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 66","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 66","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 789546","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 67","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 567657","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 890","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 567","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 66","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 67876878","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 0","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 22","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 77","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 33","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 88","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 66666","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"Number","value":"sdfsdf","path":"userId","reason":{"message":"Cast to number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"number","value":"sdfsdf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"Number","value":"sdfsdf","path":"userId","reason":{"message":"Cast to number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"number","value":"sdfsdf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"Number","value":"sdfsdf","path":"userId","reason":{"message":"Cast to number failed for value \"sdfsdf\" at path \"userId\"","name":"CastError","stringValue":"\"sdfsdf\"","kind":"number","value":"sdfsdf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"sdfsdf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"dfghrfdh\" at path \"userId\"","name":"CastError","stringValue":"\"dfghrfdh\"","kind":"Number","value":"dfghrfdh","path":"userId","reason":{"message":"Cast to number failed for value \"dfghrfdh\" at path \"userId\"","name":"CastError","stringValue":"\"dfghrfdh\"","kind":"number","value":"dfghrfdh","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"dfghrfdh\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"dfghrfdh\" at path \"userId\"","name":"CastError","stringValue":"\"dfghrfdh\"","kind":"Number","value":"dfghrfdh","path":"userId","reason":{"message":"Cast to number failed for value \"dfghrfdh\" at path \"userId\"","name":"CastError","stringValue":"\"dfghrfdh\"","kind":"number","value":"dfghrfdh","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"dfghrfdh\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"lll\" at path \"userId\"","name":"CastError","stringValue":"\"lll\"","kind":"Number","value":"lll","path":"userId","reason":{"message":"Cast to number failed for value \"lll\" at path \"userId\"","name":"CastError","stringValue":"\"lll\"","kind":"number","value":"lll","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"lll\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"fgfd\" at path \"userId\"","name":"CastError","stringValue":"\"fgfd\"","kind":"Number","value":"fgfd","path":"userId","reason":{"message":"Cast to number failed for value \"fgfd\" at path \"userId\"","name":"CastError","stringValue":"\"fgfd\"","kind":"number","value":"fgfd","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"fgfd\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"Number","value":"g","path":"userId","reason":{"message":"Cast to number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"number","value":"g","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"g\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"Number","value":"g","path":"userId","reason":{"message":"Cast to number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"number","value":"g","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"g\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"Number","value":"g","path":"userId","reason":{"message":"Cast to number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"number","value":"g","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"g\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"Number","value":"g","path":"userId","reason":{"message":"Cast to number failed for value \"g\" at path \"userId\"","name":"CastError","stringValue":"\"g\"","kind":"number","value":"g","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"g\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"rfgdf\" at path \"userId\"","name":"CastError","stringValue":"\"rfgdf\"","kind":"Number","value":"rfgdf","path":"userId","reason":{"message":"Cast to number failed for value \"rfgdf\" at path \"userId\"","name":"CastError","stringValue":"\"rfgdf\"","kind":"number","value":"rfgdf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"rfgdf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"dg\" at path \"userId\"","name":"CastError","stringValue":"\"dg\"","kind":"Number","value":"dg","path":"userId","reason":{"message":"Cast to number failed for value \"dg\" at path \"userId\"","name":"CastError","stringValue":"\"dg\"","kind":"number","value":"dg","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"dg\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"sdgf\" at path \"userId\"","name":"CastError","stringValue":"\"sdgf\"","kind":"Number","value":"sdgf","path":"userId","reason":{"message":"Cast to number failed for value \"sdgf\" at path \"userId\"","name":"CastError","stringValue":"\"sdgf\"","kind":"number","value":"sdgf","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"sdgf\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"errors":{"userId":{"message":"Cast to Number failed for value \"fg\" at path \"userId\"","name":"CastError","stringValue":"\"fg\"","kind":"Number","value":"fg","path":"userId","reason":{"message":"Cast to number failed for value \"fg\" at path \"userId\"","name":"CastError","stringValue":"\"fg\"","kind":"number","value":"fg","path":"userId"}}},"_message":"user validation failed","message":"user validation failed: userId: Cast to Number failed for value \"fg\" at path \"userId\"","name":"ValidationError","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 121212","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 1211","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 657456456","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 564","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 11111","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 232323","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 65767","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 565656","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 4564545","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 7867876","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 6767","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 67546546","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 8989789","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 768567567","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 678687","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 5676","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 45334","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 565","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 897789","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 78990","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 5654","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 76876","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 567","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 678678","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 678678","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 4321","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 45","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 65767","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 678678","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 65767","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 4321","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 888888","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 45","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 9999","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User deleted with id : 3453546","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"undefined\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"undefined\"","kind":"number","value":"undefined","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"undefined\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"undefined\"","kind":"number","value":"undefined","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"undefined\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"undefined\"","kind":"number","value":"undefined","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Cast to number failed for value \"undefined\" at path \"userId\" for model \"user\"","name":"CastError","stringValue":"\"undefined\"","kind":"number","value":"undefined","path":"userId","level":"error"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched user with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User updated with id : 78","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"User added successfully","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
+{"level":"warn","message":"Hello distributed log files!"}
+{"message":"Fetched All Users","level":"info"}
