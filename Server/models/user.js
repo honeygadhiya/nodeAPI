@@ -1,5 +1,6 @@
 var mongoose = require('mongoose');
 // mongoose.connect('mongodb://localhost/user-data');
+mongoose.connect('mongodb:admin:admin123@localhost:27017/admin');
 const winston = require('winston');
 
 var userSchema = mongoose.Schema({
